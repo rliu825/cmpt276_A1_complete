@@ -1,28 +1,9 @@
-== README
+When clicking the MEAN and AVERAGE buttons, the corresponding function will be run as required in the assignment.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The REFRESH button is used to reload the page and clear up everything.
 
-Things you may want to cover:
+I have also created a section at the left bottom:
 
-* Ruby version
+You can enter your goal of mean grade you want to achieve and the system will respond with a alert box telling you what mean grade of the rest of your exams should be to achieve your grade.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Assuming 100% is the full mark. You have a chance of getting the "unattainable" message if your goal is set too high that even if you have 100% for the rest of your grade, you still can't achieve your goal.
