@@ -1,0 +1,156 @@
+body{ 
+	background-color: #A6192E;
+
+}
+#box {
+	background-color: #FFFFFF;
+	overflow: auto;
+	position: relative;
+	margin-top:20px;
+	margin-left:100px;
+	width:1700px;
+	height:770px;
+}
+
+
+
+h2{
+	color: #B71E27;
+	padding-left: 16px;
+}
+table, th, td {
+	border: 1px solid #C5C5C5;
+	border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+}
+
+.firstline {
+	background-color: #DDDDDD;
+}
+
+td{
+	color: #282828;
+}
+
+p{
+	color: #434646;
+	padding-left: 16px;
+}
+
+#actbox {
+	border: 1px solid #D2E1E6;
+	background-color: #E9EFF1;
+	margin-left: 50px;
+	margin-bottom: 30px;
+	font-family: "Times New Roman", Times, serif;
+
+}
+
+#gradebox {
+	padding-top: 20px;
+	padding-bottom: 100px;
+	height: 3000px;
+	font-family: "Times New Roman", Times, serif;
+
+}
+#table {
+    margin:auto;
+    width: 90%;
+    padding: 3px;
+    border: 1px solid #C5C5C5; 
+    font-family: "Times New Roman", Times, serif;
+
+}
+
+
+h1 {
+	padding-top: 50px;
+	padding-left:50px;
+	margin-bottom: 50px;
+	font-family: "Times New Roman", Times, serif;
+
+}
+
+.otherline  {
+    padding: 10px;
+    text-align: left;
+
+}
+
+.lastline {
+	vertical-align: bottom;
+	padding-left: 10px;
+	padding-bottom: 0px;
+	height:30px;
+}
+
+
+input {
+	width:35%;
+	border-right:1px solid #C5C5C5;
+	border-left: 1px solid #C5C5C5;
+	border-bottom: 1px solid #C5C5C5;
+	border-top-style: none;
+
+}
+
+.grade {
+	width: 80%;
+	padding-bottom: 0px;
+}
+#buttons {
+	margin-top: 50px;
+	margin-bottom: 20px;
+	text-align: right;
+
+}
+
+#average{
+	margin-right: 20px;
+	background-color: #B5111A;
+	color: #FBF5F5;
+	border-radius: 5px;
+	border-style: solid;
+	height: 30px;
+	width: 80px;
+	
+}
+#mean{
+
+	background-color: #B5111A;
+	color: #FBF5F5;
+	border-radius: 5px;
+	border-style: none;
+	border-style: solid;
+	margin-right: 20px;
+	height: 30px;
+	width: 80px;
+}
+
+#goal{
+	margin-left: 20px;
+	margin-top:10px;
+	width: 50px;
+	height: 25px;
+	
+	float: left;
+}
+
+#goaltext {
+	float: left;
+	color: #B5111A;
+	font-size: 20px;
+	margin-top:10px;
+}
+
+#confirm{
+	margin-left: 20px;
+	margin-top:10px;
+	width: 100px;
+	height: 25px;
+	float: left;
+	background-color: #B5111A;
+	color:#FBF5F5;
+}
